@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hola, soy Soy Maribel
 
-<!--
-**MaribelCacatzi/MaribelCacatzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy desarrolladora [frontend/backend/fullstack] con interés en el desarrollo de software, la resolución de problemas y la mejora constante. Me gusta crear soluciones útiles y aprender nuevas tecnologías.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 Tecnologías que uso
+
+- 💻 Lenguajes: JavaScript
+- 🌐 Frontend: React, HTML, CSS
+- 🔧 Backend: Node.js
+- 🛠️ Herramientas: Git, VS Code
+
+---
+
+### 📫 ¿Dónde encontrarme?
+
+- LinkedIn: MaribelCacatzi
+- Twitter: @MaribelCacatzi
+- Portafolio personal: www.joselinecacatzi.com
+- correo: joselinecacatzi42@gmail.com
+
+---
+
+### 🧠 Actualmente estoy aprendiendo
+
+TypeScript · Next.js · SQL · Pruebas automatizadas - Github 
+
+---
+
+### 🚀 Algunos proyectos
+
+- Proyecto 1: Tienda en linea.
+- Proyecto 2: Sitio personal con portafolio y blog.
+
+---
+
+Gracias por visitar mi perfil 🚀
