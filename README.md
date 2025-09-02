@@ -1,4 +1,4 @@
-# 👋 Hola, soy Soy Maribel
+# 👋 Hola, soy Maribel
 
 Soy desarrolladora [frontend/backend/fullstack] con interés en el desarrollo de software, la resolución de problemas y la mejora constante. Me gusta crear soluciones útiles y aprender nuevas tecnologías.
 
