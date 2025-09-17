@@ -17,8 +17,8 @@ Soy desarrolladora [frontend/backend/fullstack] con interés en el desarrollo de
 
 - LinkedIn: MaribelCacatzi
 - Twitter: @MaribelCacatzi
-- Portafolio personal: www.joselinecacatzi.com
-- correo: joselinecacatzi42@gmail.com
+- Portafolio personal: http://127.0.0.1:5500/Bootstrap/Portafolio/reto2-Portafolio.html
+- correo: joselinexicay81@gmail.com
 
 ---
 
