@@ -1,10 +1,8 @@
-# Hola, soy Maribel
-
-Desarrolladora frontend/backend/fullstack, con interés en el desarrollo de software, la resolución de problemas y la mejora constante. Me gusta crear soluciones útiles y aprender nuevas tecnologías.
+Desarrolladora de software en constante aprendizaje, con interés por crear soluciones útiles y seguir fortaleciendo mis habilidades. Disfruto enfrentar nuevos retos, aprender tecnologías y transformar ideas en aplicaciones funcionales.
 
 ---
 
-### 💼 Tecnologías que uso
+### 💼 Tecnologías
 
 - 💻 Lenguajes: JavaScript, TypeScript
 - 🌐 Frontend: React, HTML5, CSS
@@ -16,15 +14,12 @@ Desarrolladora frontend/backend/fullstack, con interés en el desarrollo de soft
 - LinkedIn: MaribelCacatzi
 - correo: joselinexicay81@gmail.com
 
---
-
----
-
 ### 🚀 Algunos proyectos
 
 - Proyecto 1: Tienda en linea.
 - Proyecto 2: Sitio personal con portafolio y blog.
+- Proyecto 3: Sistema de Inventarios
 
 ---
 
-Gracias por visitar mi perfil 🚀
+Gracias por visitar mi perfil, vuelve pronto :)
